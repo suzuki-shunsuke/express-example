@@ -1,0 +1,8 @@
+app:
+  image: keymetrics/pm2-docker-alpine
+  ports:
+  - "3000:3000"
+  hostname: app
+  volumes:
+  - .:/app
+  command: [pm2-docker, start, --auto-exit, pm2.yml]

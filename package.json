@@ -6,11 +6,13 @@
   "dependencies": {
     "config": "^1.24.0",
     "express": "^4.14.0",
-    "js-yaml": "^3.6.1"
+    "js-yaml": "^3.6.1",
+    "pm2": "^2.0.19"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pm2": "pm2"
   },
   "repository": {
     "type": "git",
