@@ -5,12 +5,16 @@
  */
 
 const express = require('express');
+const config = require('config');
+
 const app = express();
 
 app.get('/', (req, res) => {
   res.send('Hello World!');
 });
 
-app.listen(3000, () => {
-  console.log('Example app listening on port 3000!');
+const APP_PORT = config.get('app.port');
+
+app.listen(APP_PORT, () => {
+  console.log(`Example app listening on port ${APP_PORT}!`);
 });

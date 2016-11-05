@@ -4,6 +4,7 @@
   "description": "A Sample Application of Node Express for learning.",
   "main": "index.js",
   "dependencies": {
+    "config": "^1.24.0",
     "express": "^4.14.0"
   },
   "devDependencies": {},
