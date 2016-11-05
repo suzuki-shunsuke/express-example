@@ -15,4 +15,5 @@ $ npm i
   * [Doc](https://github.com/suzuki-shunsuke/express-example/blob/a352b19469cace3c721cbe1e0a9e9f590db5e4b7/doc/HELLO.md)
 * [config](https://github.com/suzuki-shunsuke/express-example/releases/tag/config)
 * [config-yaml](https://github.com/suzuki-shunsuke/express-example/releases/tag/config-yaml)
-* pm2-docker
+* [pm2-docker](https://github.com/suzuki-shunsuke/express-example/releases/tag/pm2-docker)
+* [pug](https://github.com/suzuki-shunsuke/express-example/releases/tag/pug)
