@@ -18,3 +18,4 @@ $ npm i
 * [pm2-docker](https://github.com/suzuki-shunsuke/express-example/releases/tag/pm2-docker)
 * [pug](https://github.com/suzuki-shunsuke/express-example/releases/tag/pug)
 * [static-files](https://github.com/suzuki-shunsuke/express-example/releases/tag/static-files)
+* [debug](https://github.com/suzuki-shunsuke/express-example/releases/tag/debug)
