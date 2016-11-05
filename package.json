@@ -1,0 +1,23 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "A Sample Application of Node Express for learning.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzuki-shunsuke/express-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suzuki-shunsuke/express-example/issues"
+  },
+  "homepage": "https://github.com/suzuki-shunsuke/express-example#readme"
+}
