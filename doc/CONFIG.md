@@ -21,3 +21,10 @@ $ vi config/default.json
 const config = require('config');
 const APP_PORT = config.get('app.port');
 ```
+
+## YAML
+
+```
+$ npm i -S js-yaml
+$ vi config/default.yml
+```
