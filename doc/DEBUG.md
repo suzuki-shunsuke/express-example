@@ -12,8 +12,8 @@ https://github.com/node-inspector/node-inspector/issues/905
 * node本体に同様の機能がマージされそう(expremimental)
 
 ```
-$ node --inspect --debug-brk app/app.js
-Debugger listening on port 9229.
+$ node --inspect=3500 app/app.js
+Debugger listening on port 3500.
 Warning: This is an experimental feature and could change at any time.
 To start debugging, open the following URL in Chrome:
     chrome-devtools://devtools/remote/serve_file/@60cd6e859b9f557d2312f5bf532f6aec5f284980/(以下略) kDebugger attached.

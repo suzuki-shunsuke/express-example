@@ -19,3 +19,4 @@ $ npm i
 * [pug](https://github.com/suzuki-shunsuke/express-example/releases/tag/pug)
 * [static-files](https://github.com/suzuki-shunsuke/express-example/releases/tag/static-files)
 * [debug](https://github.com/suzuki-shunsuke/express-example/releases/tag/debug)
+* [debug-pm2](https://github.com/suzuki-shunsuke/express-example/releases/tag/debug-pm2)
