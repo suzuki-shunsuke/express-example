@@ -6,8 +6,7 @@ apps:
   ignore_watch:
   - node_modules
   env:
-    NODE_ENV: development
-    DEBUG: express:*
+    NODE_ENV: production
   # out_file: ./log/pm2/app-out.log
   # error_file: ./log/pm2/app-error.log
   # pid_file: ./pid/app-pm2.pid

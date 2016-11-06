@@ -5,4 +5,4 @@ app:
   hostname: app
   volumes:
   - .:/app
-  command: [pm2-docker, start, --auto-exit, pm2.yml]
+  command: [pm2-docker, start, --auto-exit, pm2-development.yml]
